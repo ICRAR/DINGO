@@ -1,0 +1,4 @@
+[submodule "cloud-dingo"]
+	path = cloud-dingo
+	url = git@github.com:ICRAR/cloud-dingo.git
+	branch = master
